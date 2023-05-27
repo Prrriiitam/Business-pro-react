@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Business-pro-react/static/css/main.b389a6a6.css",
+    "main.js": "/Business-pro-react/static/js/main.738df1ec.js",
+    "index.html": "/Business-pro-react/index.html",
+    "main.b389a6a6.css.map": "/Business-pro-react/static/css/main.b389a6a6.css.map",
+    "main.738df1ec.js.map": "/Business-pro-react/static/js/main.738df1ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b389a6a6.css",
+    "static/js/main.738df1ec.js"
+  ]
+}
